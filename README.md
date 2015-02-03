@@ -1,4 +1,4 @@
 # cart21
 Cart21 Shopping Cart
 
-wwww.cart21.com
+www.cart21.com
